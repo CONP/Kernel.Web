@@ -1,7 +1,15 @@
-!Name: kernel
-!Type: Website Application
-!Author: CONP organizations
+A framework based on the engine, as long as the introducing parameter file, it can be ordered through the website production and development.Simple command allows you to quickly set up an enterprise even portal website.
 
-Is a cloud computer-based PHP framework applicable to enterprise-class portal content management and secondary development, through the site parameters, remote access download, modify site content and data, we can say with unlimited scalability is a web content management system.
+1) a command to modify site;
 
-The kernel is developed by CONP organizations, looking for the sponsorship of various countries PHP enthusiasts region in the world to establish a forum for the exchange and the official website.
+2) website templates and plug-in download;
+
+3) has good expansibility and security;
+
+4) Development of high speed 4: website promotion;
+
+5) uses the simple PHP script language;
+
+6) built-in optional Java scripting framework;
+
+You will choose our open source products?
